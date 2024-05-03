@@ -1,0 +1,268 @@
+<main>
+    <h2>Welcome to the 2018 Super Bowl</h2>
+    <p>The 2018 Super Bowl was the championship game of the National Football League (NFL) for the 2017 season, held on February 4, 2018. It featured the Philadelphia Eagles and the New England Patriots.</p>
+    <p>Explore the links below for more information:</p>
+    <ul>
+        <li><a href="teams.html">Teams</a></li>
+        <li><a href="game_recap.html">Game Recap</a></li>
+        <li><a href="halftime_show.html">Halftime Show</a></li>
+        <li><a href="commercials.html">Commercials</a></li>
+        <li><a href="stats_records.html">Stats & Records</a></li>
+    </ul>
+</main>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>2018 Super Bowl - Teams</title>
+</head>
+<body>
+    <header>
+        <h1>2018 Super Bowl - Teams</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="game_recap.html">Game Recap</a></li>
+                <li><a href="halftime_show.html">Halftime Show</a></li>
+                <li><a href="commercials.html">Commercials</a></li>
+                <li><a href="stats_records.html">Stats & Records</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>Philadelphia Eagles</h2>
+            <p>The Philadelphia Eagles were the underdogs going into the 2018 Super Bowl but emerged victorious, winning their first-ever Super Bowl title. Here's a look at their key players and coaching staff:</p>
+            <h3>Roster:</h3>
+            <ul>
+                <li>Head Coach: Doug Pederson</li>
+                <li>Quarterback: Nick Foles</li>
+                <li>Running Back: Jay Ajayi</li>
+                <li>Wide Receiver: Alshon Jeffery</li>
+                <!-- Add more players -->
+            </ul>
+            <h3>Coaching Staff:</h3>
+            <ul>
+                <li>Doug Pederson - Head Coach</li>
+                <li>Frank Reich - Offensive Coordinator</li>
+                <li>Jim Schwartz - Defensive Coordinator</li>
+                <!-- Add more coaching staff -->
+            </ul>
+        </section>
+        <section>
+            <h2>New England Patriots</h2>
+            <p>The New England Patriots, led by veteran quarterback Tom Brady and head coach Bill Belichick, were aiming for their sixth Super Bowl title but fell short against the Eagles. Here's a closer look at their team:</p>
+            <h3>Roster:</h3>
+            <ul>
+                <li>Head Coach: Bill Belichick</li>
+                <li>Quarterback: Tom Brady</li>
+                <li>Tight End: Rob Gronkowski</li>
+                <li>Wide Receiver: Brandin Cooks</li>
+                <!-- Add more players -->
+            </ul>
+            <h3>Coaching Staff:</h3>
+      
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>2018 Super Bowl - Game Recap</title>
+</head>
+<body>
+    <header>
+        <h1>2018 Super Bowl - Game Recap</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="teams.html">Teams</a></li>
+                <li><a href="halftime_show.html">Halftime Show</a></li>
+                <li><a href="commercials.html">Commercials</a></li>
+                <li><a href="stats_records.html">Stats & Records</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h2>Game Overview</h2>
+        <p>The 2018 Super Bowl took place on February 4, 2018, at U.S. Bank Stadium in Minneapolis, Minnesota. It was a highly anticipated matchup between the Philadelphia Eagles and the New England Patriots.</p>
+        <p>The game was closely contested throughout, with both teams trading scores and momentum. In the end, it came down to the wire, providing one of the most thrilling Super Bowl finishes in history.</p>
+        
+        <h2>Scoring Plays</h2>
+        <ul>
+            <li><strong>1st Quarter:</strong> The Eagles scored a touchdown with a pass from Nick Foles to Alshon Jeffery.</li>
+            <li><strong>2nd Quarter:</strong> The Patriots responded with a touchdown pass from Tom Brady to Rob Gronkowski.</li>
+            <!-- Add more scoring plays -->
+        </ul>
+        
+        <h2>Key Moments</h2>
+        <p>Throughout the game, there were several key moments that shifted momentum and kept fans on the edge of their seats:</p>
+        <ul>
+            <li>The Eagles' "Philly Special" trick play, where quarterback Nick Foles caught a touchdown pass.</li>
+            <li>The Patriots' comeback attempt in the fourth quarter, led by Tom Brady.</li>
+            <!-- Add more key moments -->
+        </ul>
+        
+        <h2>Post-game Reactions</h2>
+        <p>After the game, there were mixed emotions from both teams:</p>
+        <ul>
+            <li>Elation from the Philadelphia Eagles, who won their first-ever Super Bowl title.</li>
+            <li>Disappointment from the New England Patriots, who fell just short of winning their sixth championship.</li>
+            <!-- Add more reactions -->
+        </ul>
+    </main>
+    <footer>
+        <p>&copy; 2024 Your Name</p>
+    </footer>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>2018 Super Bowl - Halftime Show</title>
+</head>
+<body>
+    <header>
+        <h1>2018 Super Bowl - Halftime Show</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="teams.html">Teams</a></li>
+                <li><a href="game_recap.html">Game Recap</a></li>
+                <li><a href="commercials.html">Commercials</a></li>
+                <li><a href="stats_records.html">Stats & Records</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>Performer: Justin Timberlake</h2>
+            <p>Justin Timberlake headlined the halftime show for the 2018 Super Bowl. He delivered a high-energy performance, featuring a mix of his classic hits and new songs.</p>
+        </section>
+        <section>
+            <h2>Song List</h2>
+            <ul>
+                <li>“Filthy”</li>
+                <li>“Rock Your Body”</li>
+                <li>“SexyBack”</li>
+                <!-- Add more songs -->
+            </ul>
+        </section>
+        <section>
+            <h2>Special Guests</h2>
+            <p>There were no official special guests announced for Justin Timberlake's halftime show, but there were rumors and speculation leading up to the event.</p>
+        </section>
+        <section>
+            <h2>Behind-the-scenes</h2>
+            <p>Behind-the-scenes footage and interviews with Justin Timberlake and his team showcased the preparation and execution of the halftime show.</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Your Name</p>
+    </footer>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>2018 Super Bowl - Commercials</title>
+</head>
+<body>
+    <header>
+        <h1>2018 Super Bowl - Commercials</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="teams.html">Teams</a></li>
+                <li><a href="game_recap.html">Game Recap</a></li>
+                <li><a href="halftime_show.html">Halftime Show</a></li>
+                <li><a href="stats_records.html">Stats & Records</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>Memorable Commercials</h2>
+            <p>The 2018 Super Bowl featured several memorable commercials that captured the audience's attention. Here are some of the most talked-about ones:</p>
+            <ul>
+                <li><strong>Tide Ad Campaign:</strong> A series of commercials parodying typical Super Bowl ad tropes, featuring actor David Harbour.</li>
+                <li><strong>Doritos Blaze vs. Mountain Dew Ice:</strong> A rap battle between Peter Dinklage and Morgan Freeman promoting the two products.</li>
+                <!-- Add more memorable commercials -->
+            </ul>
+        </section>
+        <section>
+            <h2>Analysis</h2>
+            <p>Super Bowl commercials are highly anticipated and generate significant buzz. Advertisers often spend millions of dollars on these spots, and they are scrutinized for their creativity, humor, and impact. Experts and viewers alike analyze and discuss the commercials in the days following the game.</p>
+        </section>
+        <section>
+            <h2>Viewer Favorites</h2>
+            <p>Viewers have their own opinions on which commercials were the best or most entertaining. Polls and surveys are conducted to gauge audience reactions, and social media platforms buzz with discussions and debates about the commercials.</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Your Name</p>
+    </footer>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>2018 Super Bowl - Stats & Records</title>
+</head>
+<body>
+    <header>
+        <h1>2018 Super Bowl - Stats & Records</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="teams.html">Teams</a></li>
+                <li><a href="game_recap.html">Game Recap</a></li>
+                <li><a href="halftime_show.html">Halftime Show</a></li>
+                <li><a href="commercials.html">Commercials</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>Game Stats</h2>
+            <p>The 2018 Super Bowl was a high-scoring and closely contested game. Here are some key statistics:</p>
+            <ul>
+                <li>Philadelphia Eagles: 41</li>
+                <li>New England Patriots: 33</li>
+                <!-- Add more game stats -->
+            </ul>
+        </section>
+        <section>
+            <h2>Records Broken</h2>
+            <p>The 2018 Super Bowl saw several records broken or tied, including:</p>
+            <ul>
+                <li>Most passing yards in a Super Bowl game by a single player (Tom Brady).</li>
+                <li>Longest field goal in Super Bowl history (Jake Elliott).</li>
+                <!-- Add more records -->
+            </ul>
+        </section>
+        <section>
+            <h2>Historical Comparisons</h2>
+            <p>The 2018 Super Bowl stats can be compared to those of previous years to analyze trends and performance over time. Historical data provides context and insights into the evolution of the game.</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Your Name</p>
+    </footer>
+</body>
+</html>
